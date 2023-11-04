@@ -1,4 +1,4 @@
-import './styles/global.css';
+import './styles/global.css'
 
 export function App(): JSX.Element {
   return (
@@ -7,4 +7,3 @@ export function App(): JSX.Element {
     </div>
   )
 }
-
